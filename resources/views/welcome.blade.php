@@ -8,7 +8,7 @@
       <a href="about.html" class="btn bg-light">Read More</a>
     </div>
     </div>
-    <h2 class="display-4 text text-center py-5 my-4">Get Started...</h2>
+    <h2 class="display-4 text text-center py-4 my-3">Our Services...</h2>
 
     
     <div class="section-a">
@@ -16,18 +16,40 @@
         <div class="row">
           <div class="col-md-4">
            <i class="fab fa-html5"></i>
-            <h3>Clean & Simple Code</h3>
+            <h3>Web Solutions and Websites</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="about.html" class="btn bg-info text-white">Read More</a>
           </div>
           <div class="col-md-4">
-            <i class="fas fa-cogs"></i>
-            <h3>Sass PreCompiler</h3>
+            <i class="fas fa-mobile-alt"></i>
+            <h3>Mobile Solutions (Apps)</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="about.html" class="btn bg-info text-white">Read More</a>
           </div>
           <div class="col-md-4">
             <i class="far fa-lightbulb"></i>
+            <h3>Web Hostins and Domains</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
+            <a href="about.html" class="btn bg-info text-white">Read More</a>
+          </div>
+        </div>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col-md-4">
+           <i class="fab fa-user"></i>
+            <h3>Software Consulting</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
+            <a href="about.html" class="btn bg-info text-white">Read More</a>
+          </div>
+          <div class="col-md-4">
+            <i class="fas fa-gem"></i>
+            <h3>Mobile Solutins (Apps)</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
+            <a href="about.html" class="btn bg-info text-white">Read More</a>
+          </div>
+          <div class="col-md-4">
+            <i class="far fa-snowflake"></i>
             <h3>Customizable</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="about.html" class="btn bg-info text-white">Read More</a>
@@ -35,26 +57,20 @@
         </div>
       </div>
     </div>
+    <h2 class="display-4 text text-center py-4 my-">Get Started...</h2>
 
-    <div class="section-c">
-     <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-lg-12">
-            <div class="card">
 
-            <img class=" card-img-top img-fluid" src="img/pic2.jpeg">
-              <div class="card-block">
-                <h3 class="card-title">Node.js Training</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-                <a href="about.html" class="btn bg-info text-white">Read More</a>
-          </div>
-          </div>
-        </div>
-        
+    <div class="showcase">
+      <div class="container">
+        <h1>Got Ideas?</h1>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus. Pellentesque ultrices nibh ac imperdiet tincidunt. Donec hendrerit velit eros</p>
+        <a href="about.html" class="btn bg-info text-white">Read More</a>
       </div>
-     </div>
     </div>
-    
+
+    <h2 class="display-4 text text-center py-5 my-4">Latest Projects...</h2>
+
+
     
     <div class="section-c">
      <div class="container">
@@ -62,7 +78,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="card">
 
-            <img class=" card-img-top img-fluid" src="img/pic2.jpeg">
+            <img class=" card-img-top img-fluid" src="img/pic5.jpeg">
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
@@ -73,7 +89,7 @@
         <div class="col-md-6 col-lg-4">
             <div class="card">
 
-            <img class=" card-img-top img-fluid" src="img/pic2.jpeg">
+            <img class=" card-img-top img-fluid" src="img/pic3.jpeg">
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
@@ -84,7 +100,7 @@
         <div class="col-md-6 col-lg-4">
             <div class="card">
 
-            <img class=" card-img-top img-fluid" src="img/pic2.jpeg">
+            <img class=" card-img-top img-fluid" src="img/pic6.jpeg">
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>

@@ -41,6 +41,27 @@
 
   
 }
+
+.showcase{
+  background: url(/img/pic4.jpeg) no-repeat;
+  height:500px;
+  padding:30px 0;
+
+  h1{
+    font-size:30px;
+  }
+
+  .container{
+    background: #e6ebf1;
+    opacity: 0.8;
+    padding: 20px 30px 30px 30px;
+  }
+}
+
+
+
+
+
 footer{
   padding: 30px 0;
   text-align: center;
