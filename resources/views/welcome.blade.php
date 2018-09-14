@@ -5,7 +5,7 @@
      <div class="container"> 
       <h1 class="display-2">Welcome to Lynsom Technologies</h1>
       <p class="lead">The best technology company in the world...</p>
-      <a href="about.html" class="btn bg-light">Read More</a>
+      <a href="/about" class="btn bg-light">Read More</a>
     </div>
     </div>
     <h2 class="display-4 text text-center py-4 my-3">Our Services...</h2>
@@ -18,41 +18,41 @@
            <i class="fab fa-html5"></i>
             <h3>Web Solutions and Websites</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <a href="about.html" class="btn bg-info text-white">Read More</a>
+            <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           <div class="col-md-4">
             <i class="fas fa-mobile-alt"></i>
             <h3>Mobile Solutions (Apps)</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <a href="about.html" class="btn bg-info text-white">Read More</a>
+            <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           <div class="col-md-4">
             <i class="far fa-lightbulb"></i>
             <h3>Web Hostins and Domains</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <a href="about.html" class="btn bg-info text-white">Read More</a>
+            <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
         </div>
         <br>
         <br>
         <div class="row">
           <div class="col-md-4">
-           <i class="fab fa-user"></i>
+           <i class="fas fa-coffee"></i>
             <h3>Software Consulting</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <a href="about.html" class="btn bg-info text-white">Read More</a>
+            <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           <div class="col-md-4">
             <i class="fas fa-gem"></i>
             <h3>Mobile Solutins (Apps)</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <a href="about.html" class="btn bg-info text-white">Read More</a>
+            <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           <div class="col-md-4">
             <i class="far fa-snowflake"></i>
             <h3>Customizable</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <a href="about.html" class="btn bg-info text-white">Read More</a>
+            <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
         </div>
       </div>
@@ -64,7 +64,7 @@
       <div class="container">
         <h1>Got Ideas?</h1>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus. Pellentesque ultrices nibh ac imperdiet tincidunt. Donec hendrerit velit eros</p>
-        <a href="about.html" class="btn bg-info text-white">Read More</a>
+        <a href="/services" class="btn bg-info text-white">Read More</a>
       </div>
     </div>
 
@@ -82,7 +82,7 @@
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-                <a href="about.html" class="btn bg-info text-white">Read More</a>
+                <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           </div>
         </div>
@@ -93,7 +93,7 @@
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-                <a href="about.html" class="btn bg-info text-white">Read More</a>
+                <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           </div>
         </div>
@@ -104,7 +104,7 @@
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-                <a href="about.html" class="btn bg-info text-white">Read More</a>
+                <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           </div>
         </div>
@@ -116,7 +116,7 @@
 
 
     
-            <h2 class="display-4 text text-center py-5 my-4">Please Send Us a Quote...</h2> 
+            <h2 class="display-4 text text-center py-5 my-4">Please Contact Us...</h2> 
 
             <div class="container">
             <form>

@@ -10467,6 +10467,24 @@ body {
   padding: 20px 30px 30px 30px;
 }
 
+.showcase2 {
+  background: url(/img/pic8.jpeg) no-repeat;
+  height: 400px;
+  padding: 30px 0;
+}
+
+.showcase3 {
+  background: url(/img/pic7.jpeg) no-repeat;
+  height: 400px;
+  padding: 30px 0;
+}
+
+.showcase4 {
+  background: url(/img/pic9.jpeg) no-repeat;
+  height: 400px;
+  padding: 30px 0;
+}
+
 footer {
   padding: 30px 0;
   text-align: center;

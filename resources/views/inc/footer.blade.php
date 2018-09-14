@@ -5,9 +5,9 @@
 		 <div class="row">
 		 	<div class="col-md-6">
 	      		<nav class="nav nav">
-		   		  <a class="nav-link" href="">About </a>
-                  <a class="nav-link" href="">Services</a>
-                  <a class="nav-link" href="">contact</a>
+		   		  <a class="nav-link" href="/about">About </a>
+                  <a class="nav-link" href="/services">Services</a>
+                  <a class="nav-link" href="/contact">contact</a>
                 </nav>
 		 </div>
 
