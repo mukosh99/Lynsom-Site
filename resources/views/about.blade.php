@@ -53,6 +53,46 @@
 </div>
 </div>
 <br>
+<div class="section-c">
+     <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-4">
+            <div class="card">
+
+            <img class=" card-img-top img-fluid" src="img/pic5.jpeg">
+              <div class="card-block">
+                <h3 class="card-title">Node.js Training</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
+                <a href="/services" class="btn bg-info text-white">Read More</a>
+          </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+            <div class="card">
+
+            <img class=" card-img-top img-fluid" src="img/pic3.jpeg">
+              <div class="card-block">
+                <h3 class="card-title">Node.js Training</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
+                <a href="/services" class="btn bg-info text-white">Read More</a>
+          </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+            <div class="card">
+
+            <img class=" card-img-top img-fluid" src="img/pic6.jpeg">
+              <div class="card-block">
+                <h3 class="card-title">Node.js Training</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
+                <a href="/services" class="btn bg-info text-white">Read More</a>
+          </div>
+          </div>
+        </div>
+      </div>
+     </div>
+    </div>
+
 
 
  <div class="container text-justify">
