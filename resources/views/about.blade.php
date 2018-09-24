@@ -21,7 +21,7 @@
 
 
 
-		<div class="col-md-6 col-lg-12">
+		<div class="col-md-12 col-lg-12">
 			
             <h2 class="text-center">Our Mission And Vision</h2>
 	Where does it come from?
@@ -40,7 +40,7 @@
 <div class="container text-justify">
 	<div class="row"> 
 		
-<div class="col-md-6 col-lg-12">
+<div class="col-md-12 col-lg-12">
 			
             <h2 class="text-center">Who We Are</h2>
 	Where does it come from?
@@ -56,7 +56,7 @@
 <div class="section-c">
      <div class="container">
         <div class="row">
-          <div class="col-md-6 col-lg-4">
+          <div class="col-md-4 col-lg-4">
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic5.jpeg">
@@ -67,7 +67,7 @@
           </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-4 col-lg-4">
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic3.jpeg">
@@ -78,7 +78,7 @@
           </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-4 col-lg-4">
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic6.jpeg">
@@ -97,7 +97,7 @@
 
  <div class="container text-justify">
 	<div class="row">
-		<div class="col-md-6 col-lg-12">
+		<div class="col-md-12 col-lg-12">
 			
             <h2 class="text-center">Why You should Choose Us</h2>
 	Where does it come from?

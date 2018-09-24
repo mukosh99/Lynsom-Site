@@ -14,19 +14,19 @@
     <div class="section-a">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 col-lg-4">
            <i class="fab fa-html5"></i>
             <h3>Web Solutions and Websites</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 col-lg-4">
             <i class="fas fa-mobile-alt"></i>
             <h3>Mobile Solutions (Apps)</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 col-lg-4">
             <i class="far fa-lightbulb"></i>
             <h3>Web Hostins and Domains</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
@@ -36,19 +36,19 @@
         <br>
         <br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 col-lg-4">
            <i class="fas fa-coffee"></i>
             <h3>Software Consulting</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 col-lg-4">
             <i class="fas fa-gem"></i>
             <h3>Mobile Solutions (Apps)</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
             <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 col-lg-4">
             <i class="far fa-snowflake"></i>
             <h3>Customizable</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
@@ -75,7 +75,7 @@
     <div class="section-c">
      <div class="container">
         <div class="row">
-          <div class="col-md-6 col-lg-4">
+          <div class="col-md-4 col-lg-4">
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic5.jpeg">
@@ -86,7 +86,7 @@
           </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-4 col-lg-4">
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic3.jpeg">
@@ -97,7 +97,7 @@
           </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-4 col-lg-4">
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic6.jpeg">

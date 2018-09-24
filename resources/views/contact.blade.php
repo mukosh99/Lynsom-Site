@@ -11,7 +11,7 @@
 
  <div class="container">
     <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-6 col-lg-6 pull-right">
             
             <br />
             <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
@@ -29,16 +29,19 @@
             </form>
           </div>
 
-          <div class="col-md-6">
+          <div class="col-md-6 col-lg-6 pull-left">
+            <div class="sidebar-module">
+
             <div class="card">
 
             <img class=" card-img-top img-fluid" src="img/pic3.jpeg">
               <div class="card-block">
                 <h3 class="card-title">Node.js Training</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
                 <a href="/services" class="btn bg-info text-white">Read More</a>
           </div>
           </div>
+        </div>
 </div>
           
           </div>
