@@ -4,18 +4,17 @@
  <br>
 
 <h2 class="text-center">Contact Us</h2>
+
 <div class="showcase4">
       
     </div>
+    <h2 class="display-4 text text-center py-5 my-4">Lets Discuss Your Project...</h2>
     <br>
 
  <div class="container">
     <div class="row">
-          <div class="col-md-6 col-lg-6 pull-right">
+          <div class="col-md-12 col-lg-12">
             
-            <br />
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-            <hr />
             <form>
               <input type="text" class="form-control input-lg" placeholder="Enter First Name">
               <br />
@@ -29,24 +28,11 @@
             </form>
           </div>
 
-          <div class="col-md-6 col-lg-6 pull-left">
-            <div class="sidebar-module">
-
-            <div class="card">
-
-            <img class=" card-img-top img-fluid" src="img/pic3.jpeg">
-              <div class="card-block">
-                <h3 class="card-title">Node.js Training</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sem rhoncus urna iaculis faucibus.</p>
-                <a href="/services" class="btn bg-info text-white">Read More</a>
-          </div>
-          </div>
-        </div>
-</div>
+          
           
           </div>
           </div>
-          <h2 class="display-4 text text-center py-5 my-4">Contact Us Now!...</h2>
+          
           <hr>
           
           
